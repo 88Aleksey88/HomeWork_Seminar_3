@@ -1,0 +1,14 @@
+﻿Console.Clear();
+Console.Write("Введите координату Х для точки А: ");
+double XA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координату Y для точки А: ");
+double YA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координату Z для точки А: ");
+double ZA = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координату Х для точки B: ");
+double XB = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координату Y для точки B: ");
+double YB = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координату Z для точки B: ");
+double ZB = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine($"Расстояние между точками A и B: {Math.Sqrt(Math.Pow((XA-XB), 2)+Math.Pow((YA-YB), 2) + Math.Pow((ZA-ZB), 2))}");
