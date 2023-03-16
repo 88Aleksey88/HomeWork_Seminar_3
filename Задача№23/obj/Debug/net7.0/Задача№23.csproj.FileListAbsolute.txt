@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\bin\Debug\net7.0\Задача№23.exe
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\bin\Debug\net7.0\Задача№23.deps.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\bin\Debug\net7.0\Задача№23.runtimeconfig.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\bin\Debug\net7.0\Задача№23.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\bin\Debug\net7.0\Задача№23.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\refint\Задача№23.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\Задача№23.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_3\Задача№23\obj\Debug\net7.0\ref\Задача№23.dll
